@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "Faze2Cold.aternos.me:43460",
+    "port": 43460,
     "version": "",
     "try-creative": false
   },
